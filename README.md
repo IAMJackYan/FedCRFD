@@ -14,6 +14,7 @@ python test.py --resume /path/to/checkpoints
 
 ## Citation
 
+```
 @article{yan2024cross,
   title={Cross-modal vertical federated learning for mri reconstruction},
   author={Yan, Yunlu and Wang, Hong and Huang, Yawen and He, Nanjun and Zhu, Lei and Xu, Yong and Li, Yuexiang and Zheng, Yefeng},
@@ -21,3 +22,4 @@ python test.py --resume /path/to/checkpoints
   year={2024},
   publisher={IEEE}
 }
+```
